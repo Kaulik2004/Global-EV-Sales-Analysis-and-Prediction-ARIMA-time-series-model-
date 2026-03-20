@@ -16,19 +16,21 @@ The project utilizes several sophisticated data visualizations to represent the 
 ### 1. Animated Historical EV Sales by Country (Bar Chart Race)
 Using Plotly Express, this animated horizontal bar chart provides a dynamic view of how EV sales have evolved across different regions from 2010 onwards.
 **Insight**: It clearly highlights the dominance of specific regions like China, the USA, and the EU in driving the global transition.
+
 <img width="1394" height="450" alt="racechart" src="https://github.com/user-attachments/assets/673c3fa1-dc6f-45b6-9f8c-55cd25d24709" />
-<img width="1394" height="450" alt="racechart" src="https://github.com/user-attachments/assets/673c3fa1-dc6f-45b6-9f8c-55cd25d24709" />
+
 
 
 ### 2. EV Sales vs. EV Stock Share (Percentage Analysis)
 This chart compares the actual number of vehicles sold against the total market share percentage. This is crucial for understanding market penetration—showing not just how many EVs are being bought, but how much of the total "fleet" on the road is becoming electric.
 <img width="1383" height="832" alt="evstcok" src="https://github.com/user-attachments/assets/8f24fdb5-0f08-4ed6-aa24-785d463d29c1" />
-<img width="1383" height="832" alt="evstcok" src="https://github.com/user-attachments/assets/8f24fdb5-0f08-4ed6-aa24-785d463d29c1" />
+
 
 
 ### 3. Arima and polynomial model
+Achieved an R2 of 95% and higher
 <img width="1394" height="450" alt="ARIMAandPoly" src="https://github.com/user-attachments/assets/bbbd2b29-19b2-49d3-a855-2a339e54f6a3" />
-<img width="1394" height="450" alt="ARIMAandPoly" src="https://github.com/user-attachments/assets/bbbd2b29-19b2-49d3-a855-2a339e54f6a3" />
+
 
 
 ---

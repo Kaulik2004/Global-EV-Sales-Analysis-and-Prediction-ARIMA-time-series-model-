@@ -1,0 +1,8 @@
+component_id,snapshot_date,on_hand_qty,unit_cost_inr,safety_stock_units,reorder_point_units
+COMP-CELL,2026-08-01,42000,380,,
+COMP-BMS,2026-08-01,900,2200,,
+COMP-THERM,2026-08-01,1100,950,,
+COMP-CASE,2026-08-01,1500,700,,
+COMP-BUSBAR,2026-08-01,1600,450,,
+COMP-HARNESS,2026-08-01,1400,300,,
+COMP-HW,2026-08-01,3000,120,,

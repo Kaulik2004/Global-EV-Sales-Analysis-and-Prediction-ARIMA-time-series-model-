@@ -1,0 +1,8 @@
+bom_id,parent_sku,parent_level,component_name,component_id,qty_per_pack,uom,unit_cost_inr
+BOM-001,PACK-2W-NMC-3kWh,Finished Good,"Li-ion Cell (21700, NMC)",COMP-CELL,60,unit,380
+BOM-002,PACK-2W-NMC-3kWh,Finished Good,Battery Management System (BMS),COMP-BMS,1,unit,2200
+BOM-003,PACK-2W-NMC-3kWh,Finished Good,Thermal Management Module,COMP-THERM,1,unit,950
+BOM-004,PACK-2W-NMC-3kWh,Finished Good,Pack Enclosure / Casing,COMP-CASE,1,unit,700
+BOM-005,PACK-2W-NMC-3kWh,Finished Good,Busbar & Interconnect Set,COMP-BUSBAR,1,set,450
+BOM-006,PACK-2W-NMC-3kWh,Finished Good,Wiring Harness,COMP-HARNESS,1,unit,300
+BOM-007,PACK-2W-NMC-3kWh,Finished Good,Fasteners & Hardware Kit,COMP-HW,1,kit,120

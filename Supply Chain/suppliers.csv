@@ -1,0 +1,8 @@
+component_id,supplier_id,supplier_name,origin_country,lead_time_days,moq_units,primary_mode
+COMP-CELL,SUP-01,CATL-type Cell Supplier,China,60,5000,Sea freight
+COMP-BMS,SUP-02,Domestic BMS Vendor,India,21,500,Road
+COMP-THERM,SUP-03,Korea Thermal Systems Co.,South Korea,35,1000,Sea freight
+COMP-CASE,SUP-04,Domestic Casing Manufacturer,India,14,300,Road
+COMP-BUSBAR,SUP-05,Domestic Metal Fab Vendor,India,10,500,Road
+COMP-HARNESS,SUP-06,Domestic Harness Vendor,India,12,500,Road
+COMP-HW,SUP-07,Domestic Hardware Supplier,India,7,1000,Road
